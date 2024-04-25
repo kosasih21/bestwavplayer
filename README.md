@@ -15,7 +15,8 @@ A bluetooth WAV player with ULCD integration - Georgia Tech ECE4180
 View our video project demonstration [**here**](https://youtu.be/IGfztZpOnzM).
 
 Images:
-XXX
+![Reference1](/imgs/IMG_3831.jpg)
+![Reference2](/imgs/IMG_3832.jpg)
 ## Features
 
 - **Audio Playback:** The core functionality of our device is to play WAV audio files, which are typically slightly compressed audio files that provide high-quality sound through a standalone audio playback device.
