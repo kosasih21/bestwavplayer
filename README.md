@@ -41,7 +41,7 @@ Miscellaneous:
 - Breadboard
 
 Schematics and Wiring:  
-![Reference3](/imgs/imagee.jpg)
+![Reference3](/imgs/imagee.png)
 ## Source Code
 *If intended to use, please be sure to utilize the mbed-rtos library*
 ```cpp
