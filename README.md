@@ -41,6 +41,7 @@ Miscellaneous:
 Schematics and Wiring:
 ***Insert image here***
 ## Source Code
+*If intended to use, please be sure to utilize the mbed-rtos library*
 ```cpp
 #include "mbed.h"
 #include "rtos.h"
