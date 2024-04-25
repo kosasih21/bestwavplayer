@@ -34,10 +34,12 @@ Images:
 - NPN General Purpose Amplifier, [Shop Link](https://www.jameco.com/z/PN3565-Major-Brands-PN3565-NPN-General-Purpose-Amplifier-TO-92-25V-0-5A_787608.html), [Reference Page](https://os.mbed.com/users/4180_1/notebook/using-a-speaker-for-audio-output/)
 - Potentiometer, [Shop Link](https://www.sparkfun.com/products/9806), [Reference Page](https://os.mbed.com/users/jderiso2/notebook/potentiometer/)
 - External Power Supply
-- Various Wires  
+- Various Wires
+
 Miscellaneous:
 - Phone for bluetooth connectivity
 - Breadboard
+
 Schematics and Wiring:  
 ***Insert image here***
 ## Source Code
